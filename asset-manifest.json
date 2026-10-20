@@ -1,6 +1,6 @@
 {
   "name": "Moonfox",
-  "release": "1.0.0",
+  "release": "1.1.0",
   "cell_width": 192,
   "cell_height": 208,
   "files": [
@@ -9,16 +9,17 @@
       "width": 1536,
       "height": 1872,
       "mode": "RGBA",
-      "bytes": 2198600,
-      "sha256": "7636f9f4348281134aec39876f6482b3ca99ed2529da47b307a04e1168d16bde"
+      "bytes": 2241210,
+      "sha256": "81677f348ee963b2517408533b60fcb477e4da8d2e98f8839971db6bb2e06b0f"
     },
     {
       "file": "assets/moonfox-v2.png",
       "width": 1536,
       "height": 2288,
       "mode": "RGBA",
-      "bytes": 2797078,
-      "sha256": "a8c982d59ca4f8be229e2ac3864395b89793208d8b5cdbccca7ff94d0decfeee"
+      "bytes": 2839857,
+      "sha256": "e5c61af163a58f960645df705fe2d4c91baaad90617061e2213531bcaa4bfb5f"
     }
-  ]
+  ],
+  "touch_reaction": "Grounded happy petting (standard row 4)"
 }
