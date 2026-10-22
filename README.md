@@ -1,21 +1,21 @@
-# ムーンフォックス / Moonfox
+# nmoonfox
 
 夜にそっと寄り添う、三日月のしっぽを持つやさしい月のきつね。
 ChatGPT Pets向けのカスタムペットです。藍色の水彩風の毛並み、クリーム色の胸元、星を映す瞳、黄色い三日月のしっぽが特徴です。
 
-**[ChatGPTの共有ペットを開く](https://chatgpt.com/s/sharepet_6ad6e8571d1481918a1f13a8a5d6cf7e)** · **[導入方法](INSTALL.md)** · **[PNGをダウンロード](assets/moonfox-v2.png)**
+**[ChatGPTの共有ペットを開く](https://chatgpt.com/s/sharepet_6ad6e8571d1481918a1f13a8a5d6cf7e)** · **[導入方法](INSTALL.md)** · **[PNGをダウンロード](assets/nmoonfox-v2.png)**
 
-![ムーンフォックスのアニメーション](previews/all-states.gif)
+![nmoonfoxのアニメーション](previews/all-states.gif)
 
 ## もふもふ高解像度イラスト集
 
 粒状の筆跡を抑え、柔らかな毛並みに揃えた独立イラストを追加しました。通常姿・すやすや・見上げる・にっこり・目を細める、の透過PNGが5枚（各1254×1254px）と、表情が変わるGIF（768×768px）です。
 
-**[画像集をZIPでダウンロード](https://github.com/Noon-R/moonfox-chatgpt-pet/raw/refs/heads/main/downloads/moonfox-illustrations-soft.zip)** · **[個別PNGを見る](illustrations/png)** · **[使い方と収録内容](illustrations/README.md)**
+**[画像集をZIPでダウンロード](https://github.com/Noon-R/nmoonfox/raw/refs/heads/main/downloads/nmoonfox-illustrations-soft.zip)** · **[個別PNGを見る](illustrations/png)** · **[使い方と収録内容](illustrations/README.md)**
 
 ![もふもふイラスト5枚の一覧](illustrations/preview.jpg)
 
-![にっこりするムーンフォックス](illustrations/gif/moonfox-happy.gif)
+![にっこりするnmoonfox](illustrations/gif/nmoonfox-happy.gif)
 
 ZIPを展開し、`png` フォルダーの画像をお使いください。PNGは背景透過、GIFは淡いラベンダー背景です。内蔵imagegenで生成した実寸の画像で、ペット用コマの拡大ではありません。この画像集は鑑賞・画像素材向けです。ChatGPTペットの導入には下記の共有リンクまたは従来のスプライトを使ってください。
 
@@ -26,7 +26,7 @@ ZIPを展開し、`png` フォルダーの画像をお使いください。PNG�
 Pets機能を利用できるChatGPT Workで、次のメッセージを送ってください。
 
 ```text
-この共有ペット「ムーンフォックス」を自分のペット一覧に追加して、アクティブにしてください。
+この共有ペット「nmoonfox」を自分のペット一覧に追加して、アクティブにしてください。
 https://chatgpt.com/s/sharepet_6ad6e8571d1481918a1f13a8a5d6cf7e
 ```
 
@@ -40,8 +40,8 @@ https://chatgpt.com/s/sharepet_6ad6e8571d1481918a1f13a8a5d6cf7e
 
 | ファイル | サイズ | 内容 |
 | --- | --- | --- |
-| [moonfox-v2.png](assets/moonfox-v2.png) | 1536×2288 px | 9状態＋16方向、73コマ |
-| [moonfox-v1.png](assets/moonfox-v1.png) | 1536×1872 px | 手動アップロード向け互換版、9状態・57コマ |
+| [nmoonfox-v2.png](assets/nmoonfox-v2.png) | 1536×2288 px | 9状態＋16方向、73コマ |
+| [nmoonfox-v1.png](assets/nmoonfox-v1.png) | 1536×1872 px | 手動アップロード向け互換版、9状態・57コマ |
 
 1コマは192×208 pxです。待機姿勢の本体は高さ約160 px。拡大プレビューでは画素が目立ちます。v1版はv2の先頭9行をそのまま切り出しており、動作の絵柄は同じです。
 
@@ -74,6 +74,6 @@ v2版は透明背景、セル配置、73コマ、視線の方向を検査済み�
 
 ## 制作について
 
-ムーンフォックスのキャラクター資料をもとに、AI画像生成で各動作を作成し、切り抜き・配置・検査を行いました。これはコミュニティ制作のペットであり、OpenAIの公式キャラクターではありません。
+nmoonfoxのキャラクター資料をもとに、AI画像生成で各動作を作成し、切り抜き・配置・検査を行いました。これはコミュニティ制作のペットであり、OpenAIの公式キャラクターではありません。
 
 公開日：2026-10-20。ファイルの寸法・ハッシュ値は [asset-manifest.json](asset-manifest.json) に記録しています。

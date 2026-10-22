@@ -1,10 +1,10 @@
 {
-  "name": "ムーンフォックス もふもふ高解像度イラスト集",
+  "name": "nmoonfox もふもふ高解像度イラスト集",
   "generation": "Built-in imagegen; native generated PNGs, no upscaling",
   "images": [
     {
       "file": "png/01-normal.png",
-      "label": "いつものムーンフォックス",
+      "label": "いつものnmoonfox",
       "width": 1254,
       "height": 1254,
       "transparent": true,
@@ -80,7 +80,7 @@
   ],
   "animation": {
     "sha256": "be491ff588d9a8940004152001bdb5e53576bdfb4d7e4a57a19f0a72f2d1ccee",
-    "file": "gif/moonfox-happy.gif",
+    "file": "gif/nmoonfox-happy.gif",
     "width": 768,
     "height": 768,
     "frames": 4,

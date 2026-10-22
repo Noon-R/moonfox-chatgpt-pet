@@ -1,4 +1,4 @@
-# ムーンフォックスの導入方法
+# nmoonfoxの導入方法
 
 ## 共有リンクから追加する
 
@@ -7,7 +7,7 @@
 3. 追加・選択が完了したという応答を確認します。
 
 ```text
-この共有ペット「ムーンフォックス」を自分のペット一覧に追加して、アクティブにしてください。
+この共有ペット「nmoonfox」を自分のペット一覧に追加して、アクティブにしてください。
 https://chatgpt.com/s/sharepet_6ad6e8571d1481918a1f13a8a5d6cf7e
 ```
 
@@ -21,13 +21,13 @@ https://chatgpt.com/s/sharepet_6ad6e8571d1481918a1f13a8a5d6cf7e
 
 ## PNGから手動で追加する
 
-1. [9行の互換版PNG](https://raw.githubusercontent.com/Noon-R/moonfox-chatgpt-pet/main/assets/moonfox-v1.png)を保存します。プレビューGIFではなく、このPNGを使用してください。
+1. [9行の互換版PNG](https://raw.githubusercontent.com/Noon-R/nmoonfox/main/assets/nmoonfox-v1.png)を保存します。プレビューGIFではなく、このPNGを使用してください。
 2. Web版の設定で **Personalization → Pet → Select pet → Upload pet** を開きます。
-3. PNGをアップロードし、名前を「ムーンフォックス」にして選択します。
+3. PNGをアップロードし、名前を「nmoonfox」にして選択します。
 
 この手順と1536×1872 pxの要件は[OpenAI公式Petsガイド](https://learn.chatgpt.com/docs/pets)に基づきます。設定項目が出ない場合、そのアカウントやワークスペースでは利用できない可能性があります。
 
-11行形式に対応した環境では、[v2版PNG](https://raw.githubusercontent.com/Noon-R/moonfox-chatgpt-pet/main/assets/moonfox-v2.png)を使用できます。本プロジェクトのv2版はPetsツールで登録検証済みですが、すべての手動アップロード画面が11行形式に対応するとは限りません。サイズエラーが出た場合は9行版を使ってください。
+11行形式に対応した環境では、[v2版PNG](https://raw.githubusercontent.com/Noon-R/nmoonfox/main/assets/nmoonfox-v2.png)を使用できます。本プロジェクトのv2版はPetsツールで登録検証済みですが、すべての手動アップロード画面が11行形式に対応するとは限りません。サイズエラーが出た場合は9行版を使ってください。
 
 ## 表示する
 
