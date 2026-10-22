@@ -1,0 +1,90 @@
+{
+  "name": "ムーンフォックス もふもふ高解像度イラスト集",
+  "generation": "Built-in imagegen; native generated PNGs, no upscaling",
+  "images": [
+    {
+      "file": "png/01-normal.png",
+      "label": "いつものムーンフォックス",
+      "width": 1254,
+      "height": 1254,
+      "transparent": true,
+      "visible_bounds": [
+        62,
+        83,
+        1251,
+        1197
+      ],
+      "bytes": 1759771,
+      "sha256": "e5ffd0f30a32894af429152e41d01be95a356adde1a7f80baecb9d278a17e101"
+    },
+    {
+      "file": "png/02-sleep.png",
+      "label": "すやすや",
+      "width": 1254,
+      "height": 1254,
+      "transparent": true,
+      "visible_bounds": [
+        51,
+        92,
+        1233,
+        1203
+      ],
+      "bytes": 1865290,
+      "sha256": "0700190ee75c554bd6271bf5a44c853ed437ec3b4434d89243bf9c5cd3244aa0"
+    },
+    {
+      "file": "png/03-look-up.png",
+      "label": "見上げる",
+      "width": 1254,
+      "height": 1254,
+      "transparent": true,
+      "visible_bounds": [
+        124,
+        134,
+        1248,
+        1184
+      ],
+      "bytes": 1699952,
+      "sha256": "557733034a17b82182c622a41fd796c1c12ebd5c9832a4bcb52fff2d5680fb08"
+    },
+    {
+      "file": "png/04-happy.png",
+      "label": "なでられてにっこり",
+      "width": 1254,
+      "height": 1254,
+      "transparent": true,
+      "visible_bounds": [
+        61,
+        82,
+        1253,
+        1200
+      ],
+      "bytes": 1619957,
+      "sha256": "7ba13960232fdca73be845b4aa9b4b0f7ebbad8ef3861b985fc44eb1e296fd7d"
+    },
+    {
+      "file": "png/05-soft-blink.png",
+      "label": "目を細める",
+      "width": 1254,
+      "height": 1254,
+      "transparent": true,
+      "visible_bounds": [
+        62,
+        83,
+        1253,
+        1200
+      ],
+      "bytes": 1568838,
+      "sha256": "90575361a227ad0b9d0f4aacd18eee18b7fb30ddf779bbfa26192eeae2cb4e2c"
+    }
+  ],
+  "animation": {
+    "sha256": "be491ff588d9a8940004152001bdb5e53576bdfb4d7e4a57a19f0a72f2d1ccee",
+    "file": "gif/moonfox-happy.gif",
+    "width": 768,
+    "height": 768,
+    "frames": 4,
+    "duration_ms": 3120,
+    "background": "pale lavender; PNG masters retain full alpha"
+  }
+}

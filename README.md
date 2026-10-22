@@ -7,6 +7,20 @@ ChatGPT Pets向けのカスタムペットです。藍色の水彩風の毛並�
 
 ![ムーンフォックスのアニメーション](previews/all-states.gif)
 
+## もふもふ高解像度イラスト集
+
+粒状の筆跡を抑え、柔らかな毛並みに揃えた独立イラストを追加しました。通常姿・すやすや・見上げる・にっこり・目を細める、の透過PNGが5枚（各1254×1254px）と、表情が変わるGIF（768×768px）です。
+
+**[画像集をZIPでダウンロード](https://github.com/Noon-R/moonfox-chatgpt-pet/raw/refs/heads/main/downloads/moonfox-illustrations-soft.zip)** · **[個別PNGを見る](illustrations/png)** · **[使い方と収録内容](illustrations/README.md)**
+
+![もふもふイラスト5枚の一覧](illustrations/preview.jpg)
+
+![にっこりするムーンフォックス](illustrations/gif/moonfox-happy.gif)
+
+ZIPを展開し、`png` フォルダーの画像をお使いください。PNGは背景透過、GIFは淡いラベンダー背景です。内蔵imagegenで生成した実寸の画像で、ペット用コマの拡大ではありません。この画像集は鑑賞・画像素材向けです。ChatGPTペットの導入には下記の共有リンクまたは従来のスプライトを使ってください。
+
+寸法・ハッシュ値は [イラスト用manifest](illustrations/manifest.json)、制作時の指示は [プロンプト集](illustrations/prompts) に収録しています。
+
 ## すぐに使う
 
 Pets機能を利用できるChatGPT Workで、次のメッセージを送ってください。
